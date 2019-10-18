@@ -1,2 +1,2 @@
-# commerce-platform-apis
-Commerce Platform API's 
+# commerce-partner-apis
+Commerce Partner API Documentation
